@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# (Adding config.py to prevent sensitive data from being uploaded publicly)
+config.py
